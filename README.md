@@ -23,9 +23,10 @@ c.	TOP 5 Titulo por región / Grafico de árbol / Grafico de áreas
 d.	Una tabla donde se encuentra el título de la película, el número de votos que obtuvo y el promedio de rating.
 e.	Se utilizo un filtro para buscar la película por nombre, lenguaje, región y si es un título original o no. / Grafico tipo segmentador y se importo de la tienda una visualización  llamada text filter utilizada para buscar dentro de la tabla por el título de la película 
 f.	Una imagen de la compañía 
+
 El reporte se público en https://powerbi.microsoft.com/es-es/ donde se genero un dashboard a partir de las 2 hojas que se encontraban en el informe donde se pueden generar alertas si fuera necesario , también se creó una vista móvil tanto como para el informe como para el dashboard se puede ingresar para poder verlo con las siguientes credenciales de prueba :
 Username : frank@bicontoso.space  
 Password  : TESTgt58
 De igual manera se subió al repositorio una presentación de Microsoft powerpoint con el reporte final descargado desde el servicio de powerbi y un código QR donde se puede acceder al reporte sin necesidad de un usuario (recomendación verlo en horizontal).
 
-Nota: aún se podría automatizar de muchas maneras utilizando un gateway de power bi para una actualización automática , creando grupos de trabajo colaborativo , podría mejorarse utilizando el lenguaje natural escribiendo sinónimos a las tablas que cargamos al modelo de datos para luego filtar los datos con QA , 
+Nota: aún se podría automatizar de muchas maneras utilizando un gateway de power bi para una actualización automática , creando grupos de trabajo colaborativo , podría mejorarse utilizando el lenguaje natural escribiendo sinónimos a las tablas que cargamos al modelo de datos para luego filtar los datos con QA.
